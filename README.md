@@ -2,10 +2,11 @@
 
 
 <!-- My GitHub stats with buefy theme ❤️ -->
-### My Github Stats & Languages Used
+## My Github Stats & Languages Used
 
-<a align="center" href="">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlMishbah&count_private=true&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMishbah&layout=compact&hide=html,css&theme=radical" alt="languages" height="165">
-</p>
+<a href="https://github.com/AlMishbah">
+<img align="center" alt="AlMishbah Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlMishbah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/AlMishbah">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlMishbah&layout=compact&theme=radical" />
 </a>
+
