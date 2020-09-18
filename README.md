@@ -14,7 +14,7 @@
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -28,6 +28,9 @@
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
