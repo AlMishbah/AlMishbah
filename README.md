@@ -78,9 +78,8 @@
 [<img align="left" alt="AlMishbah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlMishbah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
 
 [website]: https://roihan.netlify.app
 [facebook]: https://www.facebook.com/roihanmish28
 [instagram]: http://instagram.com/roihanmish_28
-[linkedin]: https://www.linkedin.com/in/roihanmishbahulanam/
+[linkedin]: https://www.linkedin.com/in/roihanmishbahulanam
