@@ -70,8 +70,12 @@
 </code>](https://www.kernel.org/)
 
 ---
-<summary>Coding Statistics</summary> 
-<figure><embed src="https://wakatime.com/share/@783ca2ed-c2b3-446a-8b48-39e7f424b5f4/2120b614-015c-4fb1-8c32-86ebe0bd26db.svg"></embed></figure>
+<details>
+    <summary>Coding Statistics</summary> 
+    <p align="center">
+        <img src="https://wakatime.com/share/@783ca2ed-c2b3-446a-8b48-39e7f424b5f4/2120b614-015c-4fb1-8c32-86ebe0bd26db.svg" width="100%" height="400"/>
+    </p>
+</details>
 
 ---
 
