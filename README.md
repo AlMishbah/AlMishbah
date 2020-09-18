@@ -2,7 +2,7 @@
 
 
 <!-- My GitHub stats with buefy theme ❤️ -->
-<p>My Github Stats & Languages Used</p>
+### My Github Stats & Languages Used
 
 <a align="center" href="">
 <p align="center">
