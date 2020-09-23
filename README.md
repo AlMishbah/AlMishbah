@@ -10,12 +10,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlMishbah&layout=compact&theme=radical" />
 </a>
 
+<br />
 <p align="center">
 <a href="https://github.com/AlMishbah/Materi-Pondok-IT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlMishbah&theme=dracula&repo=Materi-Pondok-IT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlMishbah&theme=radical&repo=Materi-Pondok-IT" />
 </a>
 <a href="https://github.com/AlMishbah/project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlMishbah&theme=dracula&repo=project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlMishbah&theme=radical&repo=project" />
 </a>
 </p>
 
