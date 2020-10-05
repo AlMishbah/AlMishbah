@@ -1,4 +1,4 @@
-### Hi there <code><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></code>
+### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 <!-- My GitHub stats with buefy theme ❤️ -->
