@@ -1,4 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1596061862/9845/meow_heart.png?1596061862" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588262976/8817/meow_bread_disappear.gif?1588262976" width="25" height="25"/>
+<div>
+
 
 
 <!-- My GitHub stats with buefy theme ❤️ -->
