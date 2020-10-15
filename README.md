@@ -5,12 +5,6 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588262976/8817/meow_bread_disappear.gif?1588262976" width="25" height="25"/>
 <div>
 
-<h1 align="center">
-  <br>
-   <img src="https://imgur.com/a/5QZJviG" alt="gift_text" />
-  <br>
-</h1>
-
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 ## My Github Stats & Languages Used
