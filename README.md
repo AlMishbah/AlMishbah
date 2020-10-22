@@ -3,10 +3,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="25" height="25"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1596061862/9845/meow_heart.png?1596061862" width="25" height="25"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1588262976/8817/meow_bread_disappear.gif?1588262976" width="25" height="25"/>
-    
-    <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <div>
-
+    
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 ## My Github Stats & Languages Used
