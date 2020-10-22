@@ -5,7 +5,6 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588262976/8817/meow_bread_disappear.gif?1588262976" width="25" height="25"/>
 <div>
     
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 ## My Github Stats & Languages Used
@@ -104,6 +103,8 @@
 [<img align="left" alt="AlMishbah | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="AlMishbah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlMishbah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 [website]: https://roihan.netlify.app
 [facebook]: https://www.facebook.com/roihanmish28
